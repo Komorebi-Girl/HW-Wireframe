@@ -29,9 +29,7 @@ nav{
 }
 
 footer{
-	width: 100%;
-	clear: both;
-	
+	width: 100%;	
 }
 
 section{
@@ -57,6 +55,7 @@ article{
 
 
 .clear{
+	clear:both;
 
 }
 
@@ -68,4 +67,8 @@ h1, h3, p{
 
 #whiteText{
 	color:  #ebebeb;
+}
+
+#greyText{
+	color:grey;
 }
